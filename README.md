@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import arcsine from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine@deno/mod.js';
+import arcsine from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine@v0.2.2-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { Arcsine, cdf, entropy, kurtosis, logcdf, logpdf, mean, median, mode, pdf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine@deno/mod.js';
+import { Arcsine, cdf, entropy, kurtosis, logcdf, logpdf, mean, median, mode, pdf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine@v0.2.2-deno/mod.js';
 ```
 
 #### arcsine
@@ -129,7 +129,7 @@ var mu = dist.mean;
 
 ```javascript
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@deno/mod.js';
-import arcsine from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine@deno/mod.js';
+import arcsine from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine@v0.2.2-deno/mod.js';
 
 console.log( objectKeys( arcsine ) );
 ```
