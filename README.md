@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import arcsine from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine@esm/index.mjs';
+import arcsine from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine@v0.2.2-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { Arcsine, cdf, entropy, kurtosis, logcdf, logpdf, mean, median, mode, pdf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine@esm/index.mjs';
+import { Arcsine, cdf, entropy, kurtosis, logcdf, logpdf, mean, median, mode, pdf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine@v0.2.2-esm/index.mjs';
 ```
 
 #### arcsine
@@ -134,7 +134,7 @@ var mu = dist.mean;
 <script type="module">
 
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@esm/index.mjs';
-import arcsine from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine@esm/index.mjs';
+import arcsine from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine@v0.2.2-esm/index.mjs';
 
 console.log( objectKeys( arcsine ) );
 
