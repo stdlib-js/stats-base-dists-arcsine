@@ -35,32 +35,20 @@ limitations under the License.
 
 > Arcsine distribution.
 
-<section class="installation">
 
-## Installation
-
-```bash
-npm install @stdlib/stats-base-dists-arcsine
-```
-
-Alternatively,
-
--   To load the package in a website via a `script` tag without installation and bundlers, use the [ES Module][es-module] available on the [`esm`][esm-url] branch (see [README][esm-readme]).
--   If you are using Deno, visit the [`deno`][deno-url] branch (see [README][deno-readme] for usage intructions).
--   For use in Observable, or in browser/node environments, use the [Universal Module Definition (UMD)][umd] build available on the [`umd`][umd-url] branch (see [README][umd-readme]).
-
-The [branches.md][branches-url] file summarizes the available branches and displays a diagram illustrating their relationships.
-
-To view installation and usage instructions specific to each branch build, be sure to explicitly navigate to the respective README files on each branch, as linked to above.
-
-</section>
 
 <section class="usage">
 
 ## Usage
 
 ```javascript
-var arcsine = require( '@stdlib/stats-base-dists-arcsine' );
+import arcsine from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine@deno/mod.js';
+```
+
+You can also import the following named exports from the package:
+
+```javascript
+import { Arcsine, cdf, entropy, kurtosis, logcdf, logpdf, mean, median, mode, pdf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine@deno/mod.js';
 ```
 
 #### arcsine
@@ -120,7 +108,7 @@ The namespace contains a constructor function for creating an [arcsine][arcsine-
 <!-- </toc> -->
 
 ```javascript
-var Arcsine = require( '@stdlib/stats-base-dists-arcsine' ).Arcsine;
+var Arcsine = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine' ).Arcsine;
 var dist = new Arcsine( 2.0, 4.0 );
 
 var mu = dist.mean;
@@ -140,8 +128,8 @@ var mu = dist.mean;
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-var objectKeys = require( '@stdlib/utils-keys' );
-var arcsine = require( '@stdlib/stats-base-dists-arcsine' );
+import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@deno/mod.js';
+import arcsine from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine@deno/mod.js';
 
 console.log( objectKeys( arcsine ) );
 ```
@@ -167,7 +155,7 @@ console.log( objectKeys( arcsine ) );
 
 ## Notice
 
-This package is part of [stdlib][stdlib], a standard library for JavaScript and Node.js, with an emphasis on numerical and scientific computing. The library provides a collection of robust, high performance libraries for mathematics, statistics, streams, utilities, and more.
+This package is part of [stdlib][stdlib], a standard library with an emphasis on numerical and scientific computing. The library provides a collection of robust, high performance libraries for mathematics, statistics, streams, utilities, and more.
 
 For more information on the project, filing bug reports and feature requests, and guidance on how to develop [stdlib][stdlib], see the main project [repository][stdlib].
 
@@ -234,33 +222,33 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 
 <!-- <toc-links> -->
 
-[@stdlib/stats/base/dists/arcsine/ctor]: https://github.com/stdlib-js/stats-base-dists-arcsine-ctor
+[@stdlib/stats/base/dists/arcsine/ctor]: https://github.com/stdlib-js/stats-base-dists-arcsine-ctor/tree/deno
 
-[@stdlib/stats/base/dists/arcsine/entropy]: https://github.com/stdlib-js/stats-base-dists-arcsine-entropy
+[@stdlib/stats/base/dists/arcsine/entropy]: https://github.com/stdlib-js/stats-base-dists-arcsine-entropy/tree/deno
 
-[@stdlib/stats/base/dists/arcsine/kurtosis]: https://github.com/stdlib-js/stats-base-dists-arcsine-kurtosis
+[@stdlib/stats/base/dists/arcsine/kurtosis]: https://github.com/stdlib-js/stats-base-dists-arcsine-kurtosis/tree/deno
 
-[@stdlib/stats/base/dists/arcsine/mean]: https://github.com/stdlib-js/stats-base-dists-arcsine-mean
+[@stdlib/stats/base/dists/arcsine/mean]: https://github.com/stdlib-js/stats-base-dists-arcsine-mean/tree/deno
 
-[@stdlib/stats/base/dists/arcsine/median]: https://github.com/stdlib-js/stats-base-dists-arcsine-median
+[@stdlib/stats/base/dists/arcsine/median]: https://github.com/stdlib-js/stats-base-dists-arcsine-median/tree/deno
 
-[@stdlib/stats/base/dists/arcsine/mode]: https://github.com/stdlib-js/stats-base-dists-arcsine-mode
+[@stdlib/stats/base/dists/arcsine/mode]: https://github.com/stdlib-js/stats-base-dists-arcsine-mode/tree/deno
 
-[@stdlib/stats/base/dists/arcsine/skewness]: https://github.com/stdlib-js/stats-base-dists-arcsine-skewness
+[@stdlib/stats/base/dists/arcsine/skewness]: https://github.com/stdlib-js/stats-base-dists-arcsine-skewness/tree/deno
 
-[@stdlib/stats/base/dists/arcsine/stdev]: https://github.com/stdlib-js/stats-base-dists-arcsine-stdev
+[@stdlib/stats/base/dists/arcsine/stdev]: https://github.com/stdlib-js/stats-base-dists-arcsine-stdev/tree/deno
 
-[@stdlib/stats/base/dists/arcsine/variance]: https://github.com/stdlib-js/stats-base-dists-arcsine-variance
+[@stdlib/stats/base/dists/arcsine/variance]: https://github.com/stdlib-js/stats-base-dists-arcsine-variance/tree/deno
 
-[@stdlib/stats/base/dists/arcsine/cdf]: https://github.com/stdlib-js/stats-base-dists-arcsine-cdf
+[@stdlib/stats/base/dists/arcsine/cdf]: https://github.com/stdlib-js/stats-base-dists-arcsine-cdf/tree/deno
 
-[@stdlib/stats/base/dists/arcsine/logcdf]: https://github.com/stdlib-js/stats-base-dists-arcsine-logcdf
+[@stdlib/stats/base/dists/arcsine/logcdf]: https://github.com/stdlib-js/stats-base-dists-arcsine-logcdf/tree/deno
 
-[@stdlib/stats/base/dists/arcsine/logpdf]: https://github.com/stdlib-js/stats-base-dists-arcsine-logpdf
+[@stdlib/stats/base/dists/arcsine/logpdf]: https://github.com/stdlib-js/stats-base-dists-arcsine-logpdf/tree/deno
 
-[@stdlib/stats/base/dists/arcsine/pdf]: https://github.com/stdlib-js/stats-base-dists-arcsine-pdf
+[@stdlib/stats/base/dists/arcsine/pdf]: https://github.com/stdlib-js/stats-base-dists-arcsine-pdf/tree/deno
 
-[@stdlib/stats/base/dists/arcsine/quantile]: https://github.com/stdlib-js/stats-base-dists-arcsine-quantile
+[@stdlib/stats/base/dists/arcsine/quantile]: https://github.com/stdlib-js/stats-base-dists-arcsine-quantile/tree/deno
 
 <!-- </toc-links> -->
 
