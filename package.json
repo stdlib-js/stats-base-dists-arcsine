@@ -57,6 +57,7 @@
     "@stdlib/assert-has-own-property": "^0.2.2",
     "@stdlib/assert-is-function": "^0.2.2",
     "@stdlib/assert-is-number": "^0.2.2",
+    "@stdlib/console-log-each-map": "github:stdlib-js/console-log-each-map#main",
     "@stdlib/constants-float64-eps": "^0.2.2",
     "@stdlib/constants-float64-fourth-pi": "^0.2.2",
     "@stdlib/constants-float64-half-pi": "^0.2.2",

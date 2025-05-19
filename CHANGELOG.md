@@ -4,295 +4,23 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-17)
-
-<section class="packages">
-
-### Packages
-
-<section class="package" id="stats-base-dists-arcsine-cdf-unreleased">
-
-#### [@stdlib/stats/base/dists/arcsine/cdf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/arcsine/cdf)
-
-<details>
+## Unreleased (2025-05-19)
 
 <section class="features">
 
-##### Features
+### Features
 
--   [`e7e0f46`](https://github.com/stdlib-js/stdlib/commit/e7e0f4690074d14b9e2b86a6bc3c61d75ce66ac0) - add C implementation for arcsine CDF [(#3354)](https://github.com/stdlib-js/stdlib/pull/3354)
-
-</section>
-
-<!-- /.features -->
-
-<section class="issues">
-
-##### Closed Issues
-
-This release closes the following issue:
-
-[#3384](https://github.com/stdlib-js/stdlib/issues/3384)
-
-</section>
-
-<!-- /.issues -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-arcsine-entropy-unreleased">
-
-#### [@stdlib/stats/base/dists/arcsine/entropy](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/arcsine/entropy)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`222ef72`](https://github.com/stdlib-js/stdlib/commit/222ef725730746806fa15ac1d735f0284cf4616e) - add C implementation for `stats/base/dists/arcsine/entropy` [(#3379)](https://github.com/stdlib-js/stdlib/pull/3379)
-
-</section>
-
-<!-- /.features -->
-
-<section class="issues">
-
-##### Closed Issues
-
-This release closes the following issue:
-
-[#3378](https://github.com/stdlib-js/stdlib/issues/3378)
-
-</section>
-
-<!-- /.issues -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-arcsine-kurtosis-unreleased">
-
-#### [@stdlib/stats/base/dists/arcsine/kurtosis](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/arcsine/kurtosis)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`31faa3e`](https://github.com/stdlib-js/stdlib/commit/31faa3e761d92fe94a35d941bed6640380e21b37) - add C implementation for `stats/base/dists/arcsine/kurtosis` [(#3388)](https://github.com/stdlib-js/stdlib/pull/3388)
-
-</section>
-
-<!-- /.features -->
-
-<section class="issues">
-
-##### Closed Issues
-
-This release closes the following issue:
-
-[#3385](https://github.com/stdlib-js/stdlib/issues/3385)
-
-</section>
-
-<!-- /.issues -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-arcsine-logpdf-unreleased">
-
-#### [@stdlib/stats/base/dists/arcsine/logpdf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/arcsine/logpdf)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`1d283b5`](https://github.com/stdlib-js/stdlib/commit/1d283b5f174dc2ec7770bd7be861cdb2f146027d) - add C implementation of `stats/base/dists/arcsine/logpdf` [(#3454)](https://github.com/stdlib-js/stdlib/pull/3454)
-
-</section>
-
-<!-- /.features -->
-
-<section class="issues">
-
-##### Closed Issues
-
-This release closes the following issue:
-
-[#3401](https://github.com/stdlib-js/stdlib/issues/3401)
-
-</section>
-
-<!-- /.issues -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-arcsine-mean-unreleased">
-
-#### [@stdlib/stats/base/dists/arcsine/mean](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/arcsine/mean)
-
-<details>
-
-<section class="features">
-
-##### Features
-
+-   [`c487a89`](https://github.com/stdlib-js/stdlib/commit/c487a8949885d2867681ba09837077d40423cbda) - add C implementation for `stats/base/dists/arcsine/median` [(#4066)](https://github.com/stdlib-js/stdlib/pull/4066)
 -   [`d3cf065`](https://github.com/stdlib-js/stdlib/commit/d3cf0651525333600890e7c57d6f5df6466c0eee) - add C implementation for `stats/base/dists/arcsine/mean` [(#4369)](https://github.com/stdlib-js/stdlib/pull/4369)
-
-</section>
-
-<!-- /.features -->
-
-<section class="issues">
-
-##### Closed Issues
-
-A total of 2 issues were closed in this release:
-
-[#3402](https://github.com/stdlib-js/stdlib/issues/3402), [#5144](https://github.com/stdlib-js/stdlib/issues/5144)
-
-</section>
-
-<!-- /.issues -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-arcsine-mode-unreleased">
-
-#### [@stdlib/stats/base/dists/arcsine/mode](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/arcsine/mode)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`3afe09e`](https://github.com/stdlib-js/stdlib/commit/3afe09e623a0bfd0beb8f7e5aa3de7303b52ed48) - add C implementation for `stats/base/dists/arcsine/mode` [(#4236)](https://github.com/stdlib-js/stdlib/pull/4236)
-
-</section>
-
-<!-- /.features -->
-
-<section class="issues">
-
-##### Closed Issues
-
-This release closes the following issue:
-
-[#3405](https://github.com/stdlib-js/stdlib/issues/3405)
-
-</section>
-
-<!-- /.issues -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-arcsine-pdf-unreleased">
-
-#### [@stdlib/stats/base/dists/arcsine/pdf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/arcsine/pdf)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`fbbdff6`](https://github.com/stdlib-js/stdlib/commit/fbbdff6ed331a65f7baab74249d29b60ec01b101) - add implementation of `stats/base/dists/arcsine/pdf` [(#3455)](https://github.com/stdlib-js/stdlib/pull/3455)
-
-</section>
-
-<!-- /.features -->
-
-<section class="issues">
-
-##### Closed Issues
-
-This release closes the following issue:
-
-[#3402](https://github.com/stdlib-js/stdlib/issues/3402)
-
-</section>
-
-<!-- /.issues -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-arcsine-skewness-unreleased">
-
-#### [@stdlib/stats/base/dists/arcsine/skewness](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/arcsine/skewness)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`4d4286c`](https://github.com/stdlib-js/stdlib/commit/4d4286c043d00531968ca87c71133c6efd6b8c12) - add C implementation for `stats/base/dists/arcsine/skewness` [(#4361)](https://github.com/stdlib-js/stdlib/pull/4361)
-
-</section>
-
-<!-- /.features -->
-
-<section class="issues">
-
-##### Closed Issues
-
-This release closes the following issue:
-
-[#3408](https://github.com/stdlib-js/stdlib/issues/3408)
-
-</section>
-
-<!-- /.issues -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-arcsine-stdev-unreleased">
-
-#### [@stdlib/stats/base/dists/arcsine/stdev](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/arcsine/stdev)
-
-<details>
-
-<section class="features">
-
-##### Features
-
 -   [`ba3d6e8`](https://github.com/stdlib-js/stdlib/commit/ba3d6e8c6cba467455f4f8f6b32edb6c0ddc5dc5) - add C Implementation for `stats/base/dists/arcsine/stdev` [(#4241)](https://github.com/stdlib-js/stdlib/pull/4241)
+-   [`3afe09e`](https://github.com/stdlib-js/stdlib/commit/3afe09e623a0bfd0beb8f7e5aa3de7303b52ed48) - add C implementation for `stats/base/dists/arcsine/mode` [(#4236)](https://github.com/stdlib-js/stdlib/pull/4236)
+-   [`4d4286c`](https://github.com/stdlib-js/stdlib/commit/4d4286c043d00531968ca87c71133c6efd6b8c12) - add C implementation for `stats/base/dists/arcsine/skewness` [(#4361)](https://github.com/stdlib-js/stdlib/pull/4361)
+-   [`3688b08`](https://github.com/stdlib-js/stdlib/commit/3688b0821bbfc1e99f33b859a4e090c6b75dc3fa) - add C implementation for `stats/base/dists/arcsine/variance` [(#3968)](https://github.com/stdlib-js/stdlib/pull/3968)
+-   [`fbbdff6`](https://github.com/stdlib-js/stdlib/commit/fbbdff6ed331a65f7baab74249d29b60ec01b101) - add implementation of `stats/base/dists/arcsine/pdf` [(#3455)](https://github.com/stdlib-js/stdlib/pull/3455)
+-   [`31faa3e`](https://github.com/stdlib-js/stdlib/commit/31faa3e761d92fe94a35d941bed6640380e21b37) - add C implementation for `stats/base/dists/arcsine/kurtosis` [(#3388)](https://github.com/stdlib-js/stdlib/pull/3388)
+-   [`222ef72`](https://github.com/stdlib-js/stdlib/commit/222ef725730746806fa15ac1d735f0284cf4616e) - add C implementation for `stats/base/dists/arcsine/entropy` [(#3379)](https://github.com/stdlib-js/stdlib/pull/3379)
+-   [`1d283b5`](https://github.com/stdlib-js/stdlib/commit/1d283b5f174dc2ec7770bd7be861cdb2f146027d) - add C implementation of `stats/base/dists/arcsine/logpdf` [(#3454)](https://github.com/stdlib-js/stdlib/pull/3454)
+-   [`e7e0f46`](https://github.com/stdlib-js/stdlib/commit/e7e0f4690074d14b9e2b86a6bc3c61d75ce66ac0) - add C implementation for arcsine CDF [(#3354)](https://github.com/stdlib-js/stdlib/pull/3354)
 
 </section>
 
@@ -300,69 +28,13 @@ This release closes the following issue:
 
 <section class="bug-fixes">
 
-##### Bug Fixes
+### Bug Fixes
 
 -   [`07b0a30`](https://github.com/stdlib-js/stdlib/commit/07b0a30dc4f2361158e9cc923a70d8b9298e7a91) - add missing semicolon
 
 </section>
 
 <!-- /.bug-fixes -->
-
-<section class="issues">
-
-##### Closed Issues
-
-This release closes the following issue:
-
-[#3409](https://github.com/stdlib-js/stdlib/issues/3409)
-
-</section>
-
-<!-- /.issues -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-arcsine-variance-unreleased">
-
-#### [@stdlib/stats/base/dists/arcsine/variance](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/arcsine/variance)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`3688b08`](https://github.com/stdlib-js/stdlib/commit/3688b0821bbfc1e99f33b859a4e090c6b75dc3fa) - add C implementation for `stats/base/dists/arcsine/variance` [(#3968)](https://github.com/stdlib-js/stdlib/pull/3968)
-
-</section>
-
-<!-- /.features -->
-
-<section class="issues">
-
-##### Closed Issues
-
-This release closes the following issue:
-
-[#3410](https://github.com/stdlib-js/stdlib/issues/3410)
-
-</section>
-
-<!-- /.issues -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
 
 <section class="issues">
 
@@ -376,30 +48,22 @@ A total of 11 issues were closed in this release:
 
 <!-- /.issues -->
 
-<section class="contributors">
-
-### Contributors
-
-A total of 7 people contributed to this release. Thank you to the following contributors:
-
--   Aayush Khanna
--   Athan Reines
--   Karan Anand
--   Philipp Burckhardt
--   Saurabh Singh
--   Vinit Pandit
--   ekambains
-
-</section>
-
-<!-- /.contributors -->
-
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`0def122`](https://github.com/stdlib-js/stdlib/commit/0def122ace01882b5b7344ac90754ea5f4375ac7) - **docs:** minor clean-up _(by Philipp Burckhardt)_
+-   [`55636e4`](https://github.com/stdlib-js/stdlib/commit/55636e401a4c7c504a41ecb511dc6d55206fdc4a) - **docs:** fix closing comment tags _(by Athan Reines)_
+-   [`846b05e`](https://github.com/stdlib-js/stdlib/commit/846b05e0bea14ee9931044b529f071bd8c20879b) - **chore:** clean-up _(by Athan Reines)_
+-   [`e97e770`](https://github.com/stdlib-js/stdlib/commit/e97e770013a9963c5259ab18ecdd48e5730a6e3b) - **chore:** fix addon and configuration _(by Athan Reines)_
+-   [`e976bd1`](https://github.com/stdlib-js/stdlib/commit/e976bd17f51cd6173298cf74a151f9bdae4c1242) - **chore:** clean-up _(by Athan Reines)_
+-   [`c487a89`](https://github.com/stdlib-js/stdlib/commit/c487a8949885d2867681ba09837077d40423cbda) - **feat:** add C implementation for `stats/base/dists/arcsine/median` [(#4066)](https://github.com/stdlib-js/stdlib/pull/4066) _(by pranav-1720, Philipp Burckhardt, stdlib-bot)_
+-   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
+-   [`e3edfba`](https://github.com/stdlib-js/stdlib/commit/e3edfbadf42a40979d3ed9e35a2e736b62af241d) - **docs:** fix interpolation of decimal values [(#6259)](https://github.com/stdlib-js/stdlib/pull/6259) _(by Karan Anand)_
+-   [`6ff59dd`](https://github.com/stdlib-js/stdlib/commit/6ff59dd9c1a20e141232e8081ca8606c87c73989) - **docs:** replace manual `for` loop in examples [(#6249)](https://github.com/stdlib-js/stdlib/pull/6249) _(by Karan Anand)_
+-   [`a76b231`](https://github.com/stdlib-js/stdlib/commit/a76b231a2784a852b88d5693960836f59d746418) - **docs:** update examples to avoid explicit `for` loops _(by Athan Reines)_
 -   [`7fc07a2`](https://github.com/stdlib-js/stdlib/commit/7fc07a2122bb9e862ae7e2237dd48096051199dd) - **docs:** fix missing section tags in various READMEs [(#5322)](https://github.com/stdlib-js/stdlib/pull/5322) _(by Saurabh Singh)_
 -   [`f7988d3`](https://github.com/stdlib-js/stdlib/commit/f7988d3c02e0eff3bd9bd7523b5dc975bb98dc0e) - **bench:** fix `isnan` checks in `stats/base/dists` [(#5296)](https://github.com/stdlib-js/stdlib/pull/5296) _(by Karan Anand)_
 -   [`a9d99f1`](https://github.com/stdlib-js/stdlib/commit/a9d99f13aea6a606023bb7d6838920e0e930d073) - **docs:** update related packages sections [(#5207)](https://github.com/stdlib-js/stdlib/pull/5207) _(by stdlib-bot)_
@@ -441,6 +105,25 @@ A total of 7 people contributed to this release. Thank you to the following cont
 
 <!-- /.commits -->
 
+<section class="contributors">
+
+### Contributors
+
+A total of 8 people contributed to this release. Thank you to the following contributors:
+
+-   Aayush Khanna
+-   Athan Reines
+-   Karan Anand
+-   Philipp Burckhardt
+-   Saurabh Singh
+-   Vinit Pandit
+-   ekambains
+-   pranav-1720
+
+</section>
+
+<!-- /.contributors -->
+
 </section>
 
 <!-- /.release -->
@@ -448,26 +131,6 @@ A total of 7 people contributed to this release. Thank you to the following cont
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
-
-<section class="packages">
-
-### Packages
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -483,6 +146,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
@@ -502,26 +177,6 @@ No changes reported for this release.
 
 ## 0.2.0 (2024-02-14)
 
-<section class="packages">
-
-### Packages
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
-
 <section class="commits">
 
 ### Commits
@@ -537,6 +192,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <!-- /.commits -->
 
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
 </section>
 
 <!-- /.release -->
@@ -545,523 +212,15 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 ## 0.1.0 (2023-09-24)
 
-<section class="packages">
-
-### Packages
-
-<section class="package" id="stats-base-dists-arcsine-v0.1.0">
-
-#### [@stdlib/stats/base/dists/arcsine](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/arcsine)
-
-<details>
-
 <section class="features">
 
-##### Features
+### Features
 
 -   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864) - update minimum TypeScript version
 
 </section>
 
 <!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-arcsine-cdf-v0.1.0">
-
-#### [@stdlib/stats/base/dists/arcsine/cdf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/arcsine/cdf)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-arcsine-ctor-v0.1.0">
-
-#### [@stdlib/stats/base/dists/arcsine/ctor](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/arcsine/ctor)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-arcsine-entropy-v0.1.0">
-
-#### [@stdlib/stats/base/dists/arcsine/entropy](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/arcsine/entropy)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-arcsine-kurtosis-v0.1.0">
-
-#### [@stdlib/stats/base/dists/arcsine/kurtosis](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/arcsine/kurtosis)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-arcsine-logcdf-v0.1.0">
-
-#### [@stdlib/stats/base/dists/arcsine/logcdf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/arcsine/logcdf)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-arcsine-logpdf-v0.1.0">
-
-#### [@stdlib/stats/base/dists/arcsine/logpdf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/arcsine/logpdf)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-arcsine-mean-v0.1.0">
-
-#### [@stdlib/stats/base/dists/arcsine/mean](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/arcsine/mean)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-arcsine-median-v0.1.0">
-
-#### [@stdlib/stats/base/dists/arcsine/median](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/arcsine/median)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-arcsine-mode-v0.1.0">
-
-#### [@stdlib/stats/base/dists/arcsine/mode](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/arcsine/mode)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-arcsine-pdf-v0.1.0">
-
-#### [@stdlib/stats/base/dists/arcsine/pdf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/arcsine/pdf)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-arcsine-quantile-v0.1.0">
-
-#### [@stdlib/stats/base/dists/arcsine/quantile](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/arcsine/quantile)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-arcsine-skewness-v0.1.0">
-
-#### [@stdlib/stats/base/dists/arcsine/skewness](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/arcsine/skewness)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-arcsine-stdev-v0.1.0">
-
-#### [@stdlib/stats/base/dists/arcsine/stdev](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/arcsine/stdev)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-arcsine-variance-v0.1.0">
-
-#### [@stdlib/stats/base/dists/arcsine/variance](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/arcsine/variance)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
 
 <section class="breaking-changes">
 
@@ -1074,18 +233,6 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.breaking-changes -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -1103,6 +250,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
