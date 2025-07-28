@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-26)
+## Unreleased (2025-07-28)
 
 <section class="features">
 
 ### Features
 
+-   [`bbac3f9`](https://github.com/stdlib-js/stdlib/commit/bbac3f9133c9399d95923f1c6395c976848846dc) - add C implementation for `stats/base/dists/arcsine/quantile` [(#4374)](https://github.com/stdlib-js/stdlib/pull/4374)
 -   [`c487a89`](https://github.com/stdlib-js/stdlib/commit/c487a8949885d2867681ba09837077d40423cbda) - add C implementation for `stats/base/dists/arcsine/median` [(#4066)](https://github.com/stdlib-js/stdlib/pull/4066)
 -   [`d3cf065`](https://github.com/stdlib-js/stdlib/commit/d3cf0651525333600890e7c57d6f5df6466c0eee) - add C implementation for `stats/base/dists/arcsine/mean` [(#4369)](https://github.com/stdlib-js/stdlib/pull/4369)
 -   [`ba3d6e8`](https://github.com/stdlib-js/stdlib/commit/ba3d6e8c6cba467455f4f8f6b32edb6c0ddc5dc5) - add C Implementation for `stats/base/dists/arcsine/stdev` [(#4241)](https://github.com/stdlib-js/stdlib/pull/4241)
@@ -40,9 +41,9 @@
 
 ### Closed Issues
 
-A total of 11 issues were closed in this release:
+A total of 13 issues were closed in this release:
 
-[#3378](https://github.com/stdlib-js/stdlib/issues/3378), [#3384](https://github.com/stdlib-js/stdlib/issues/3384), [#3385](https://github.com/stdlib-js/stdlib/issues/3385), [#3401](https://github.com/stdlib-js/stdlib/issues/3401), [#3402](https://github.com/stdlib-js/stdlib/issues/3402), [#3402](https://github.com/stdlib-js/stdlib/issues/3402), [#3405](https://github.com/stdlib-js/stdlib/issues/3405), [#3408](https://github.com/stdlib-js/stdlib/issues/3408), [#3409](https://github.com/stdlib-js/stdlib/issues/3409), [#3410](https://github.com/stdlib-js/stdlib/issues/3410), [#5144](https://github.com/stdlib-js/stdlib/issues/5144)
+[#3378](https://github.com/stdlib-js/stdlib/issues/3378), [#3384](https://github.com/stdlib-js/stdlib/issues/3384), [#3385](https://github.com/stdlib-js/stdlib/issues/3385), [#3401](https://github.com/stdlib-js/stdlib/issues/3401), [#3402](https://github.com/stdlib-js/stdlib/issues/3402), [#3402](https://github.com/stdlib-js/stdlib/issues/3402), [#3405](https://github.com/stdlib-js/stdlib/issues/3405), [#3407](https://github.com/stdlib-js/stdlib/issues/3407), [#3408](https://github.com/stdlib-js/stdlib/issues/3408), [#3409](https://github.com/stdlib-js/stdlib/issues/3409), [#3410](https://github.com/stdlib-js/stdlib/issues/3410), [#5144](https://github.com/stdlib-js/stdlib/issues/5144), [#7416](https://github.com/stdlib-js/stdlib/issues/7416)
 
 </section>
 
@@ -54,6 +55,9 @@ A total of 11 issues were closed in this release:
 
 <details>
 
+-   [`7e24b8b`](https://github.com/stdlib-js/stdlib/commit/7e24b8ba0fff87a56584bb1a2fa106eb88267596) - **test:** slightly increase tolerances for passing tests _(by Philipp Burckhardt)_
+-   [`5b33d89`](https://github.com/stdlib-js/stdlib/commit/5b33d8941974b768fdb19f64809f60b58e7f16a1) - **chore:** address commit comments for commit `bbac3f9` [(#7422)](https://github.com/stdlib-js/stdlib/pull/7422) _(by Lokesh Ranjan)_
+-   [`bbac3f9`](https://github.com/stdlib-js/stdlib/commit/bbac3f9133c9399d95923f1c6395c976848846dc) - **feat:** add C implementation for `stats/base/dists/arcsine/quantile` [(#4374)](https://github.com/stdlib-js/stdlib/pull/4374) _(by Lokesh Ranjan, Philipp Burckhardt)_
 -   [`0def122`](https://github.com/stdlib-js/stdlib/commit/0def122ace01882b5b7344ac90754ea5f4375ac7) - **docs:** minor clean-up _(by Philipp Burckhardt)_
 -   [`55636e4`](https://github.com/stdlib-js/stdlib/commit/55636e401a4c7c504a41ecb511dc6d55206fdc4a) - **docs:** fix closing comment tags _(by Athan Reines)_
 -   [`846b05e`](https://github.com/stdlib-js/stdlib/commit/846b05e0bea14ee9931044b529f071bd8c20879b) - **chore:** clean-up _(by Athan Reines)_
@@ -109,11 +113,12 @@ A total of 11 issues were closed in this release:
 
 ### Contributors
 
-A total of 8 people contributed to this release. Thank you to the following contributors:
+A total of 9 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
 -   Karan Anand
+-   Lokesh Ranjan
 -   Philipp Burckhardt
 -   Saurabh Singh
 -   Vinit Pandit
