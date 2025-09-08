@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-11)
+## Unreleased (2025-09-08)
 
 <section class="features">
 
@@ -55,6 +55,12 @@ A total of 13 issues were closed in this release:
 
 <details>
 
+-   [`e2efe32`](https://github.com/stdlib-js/stdlib/commit/e2efe32914d0d9dae5da34e6f7e7bf7655430710) - **chore:** rename exported variable in d.ts file to match name used in example code _(by Philipp Burckhardt)_
+-   [`7add020`](https://github.com/stdlib-js/stdlib/commit/7add0201c13e56a0381926ccfd4073c84eaf2ed4) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`11581aa`](https://github.com/stdlib-js/stdlib/commit/11581aaca8c3cb824cbb92c0c0f80e76890bdb20) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`7e24b8b`](https://github.com/stdlib-js/stdlib/commit/7e24b8ba0fff87a56584bb1a2fa106eb88267596) - **test:** slightly increase tolerances for passing tests _(by Philipp Burckhardt)_
 -   [`5b33d89`](https://github.com/stdlib-js/stdlib/commit/5b33d8941974b768fdb19f64809f60b58e7f16a1) - **chore:** address commit comments for commit `bbac3f9` [(#7422)](https://github.com/stdlib-js/stdlib/pull/7422) _(by Lokesh Ranjan)_
 -   [`bbac3f9`](https://github.com/stdlib-js/stdlib/commit/bbac3f9133c9399d95923f1c6395c976848846dc) - **feat:** add C implementation for `stats/base/dists/arcsine/quantile` [(#4374)](https://github.com/stdlib-js/stdlib/pull/4374) _(by Lokesh Ranjan, Philipp Burckhardt)_
