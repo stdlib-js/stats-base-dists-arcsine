@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-08)
+## Unreleased (2026-01-12)
 
 <section class="features">
 
@@ -41,9 +41,9 @@
 
 ### Closed Issues
 
-A total of 13 issues were closed in this release:
+A total of 14 issues were closed in this release:
 
-[#3378](https://github.com/stdlib-js/stdlib/issues/3378), [#3384](https://github.com/stdlib-js/stdlib/issues/3384), [#3385](https://github.com/stdlib-js/stdlib/issues/3385), [#3401](https://github.com/stdlib-js/stdlib/issues/3401), [#3402](https://github.com/stdlib-js/stdlib/issues/3402), [#3402](https://github.com/stdlib-js/stdlib/issues/3402), [#3405](https://github.com/stdlib-js/stdlib/issues/3405), [#3407](https://github.com/stdlib-js/stdlib/issues/3407), [#3408](https://github.com/stdlib-js/stdlib/issues/3408), [#3409](https://github.com/stdlib-js/stdlib/issues/3409), [#3410](https://github.com/stdlib-js/stdlib/issues/3410), [#5144](https://github.com/stdlib-js/stdlib/issues/5144), [#7416](https://github.com/stdlib-js/stdlib/issues/7416)
+[#3378](https://github.com/stdlib-js/stdlib/issues/3378), [#3384](https://github.com/stdlib-js/stdlib/issues/3384), [#3385](https://github.com/stdlib-js/stdlib/issues/3385), [#3401](https://github.com/stdlib-js/stdlib/issues/3401), [#3402](https://github.com/stdlib-js/stdlib/issues/3402), [#3402](https://github.com/stdlib-js/stdlib/issues/3402), [#3405](https://github.com/stdlib-js/stdlib/issues/3405), [#3407](https://github.com/stdlib-js/stdlib/issues/3407), [#3408](https://github.com/stdlib-js/stdlib/issues/3408), [#3409](https://github.com/stdlib-js/stdlib/issues/3409), [#3410](https://github.com/stdlib-js/stdlib/issues/3410), [#5144](https://github.com/stdlib-js/stdlib/issues/5144), [#7416](https://github.com/stdlib-js/stdlib/issues/7416), [#9526](https://github.com/stdlib-js/stdlib/issues/9526)
 
 </section>
 
@@ -55,6 +55,9 @@ A total of 13 issues were closed in this release:
 
 <details>
 
+-   [`35ce703`](https://github.com/stdlib-js/stdlib/commit/35ce70320886dd8f426225b2bd300114e7ea4c7d) - **docs:** remove duplicate words in documentation [(#9555)](https://github.com/stdlib-js/stdlib/pull/9555) _(by Shivam Mittal)_
+-   [`c7b5670`](https://github.com/stdlib-js/stdlib/commit/c7b567035c988493c48a6f305b535d6510e72501) - **chore:** fix EditorConfig lint errors [(#9528)](https://github.com/stdlib-js/stdlib/pull/9528) _(by Shreelaxmi Hegde)_
+-   [`d61ac9c`](https://github.com/stdlib-js/stdlib/commit/d61ac9c7ba00677bfde2c2fbc039db20ef9b2ce2) - **docs:** fix README sections _(by Athan Reines)_
 -   [`e2efe32`](https://github.com/stdlib-js/stdlib/commit/e2efe32914d0d9dae5da34e6f7e7bf7655430710) - **chore:** rename exported variable in d.ts file to match name used in example code _(by Philipp Burckhardt)_
 -   [`7add020`](https://github.com/stdlib-js/stdlib/commit/7add0201c13e56a0381926ccfd4073c84eaf2ed4) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
@@ -77,7 +80,7 @@ A total of 13 issues were closed in this release:
 -   [`7fc07a2`](https://github.com/stdlib-js/stdlib/commit/7fc07a2122bb9e862ae7e2237dd48096051199dd) - **docs:** fix missing section tags in various READMEs [(#5322)](https://github.com/stdlib-js/stdlib/pull/5322) _(by Saurabh Singh)_
 -   [`f7988d3`](https://github.com/stdlib-js/stdlib/commit/f7988d3c02e0eff3bd9bd7523b5dc975bb98dc0e) - **bench:** fix `isnan` checks in `stats/base/dists` [(#5296)](https://github.com/stdlib-js/stdlib/pull/5296) _(by Karan Anand)_
 -   [`a9d99f1`](https://github.com/stdlib-js/stdlib/commit/a9d99f13aea6a606023bb7d6838920e0e930d073) - **docs:** update related packages sections [(#5207)](https://github.com/stdlib-js/stdlib/pull/5207) _(by stdlib-bot)_
--   [`9a18dc7`](https://github.com/stdlib-js/stdlib/commit/9a18dc77697311a314e9ff0c5bf5427a2fcfbfd7) - **bench:** remove duplicate variable declaration [(#5159)](https://github.com/stdlib-js/stdlib/pull/5159) _(by ekambains)_
+-   [`9a18dc7`](https://github.com/stdlib-js/stdlib/commit/9a18dc77697311a314e9ff0c5bf5427a2fcfbfd7) - **bench:** remove duplicate variable declaration [(#5159)](https://github.com/stdlib-js/stdlib/pull/5159) _(by Ekampreet Singh Bains)_
 -   [`e61b1de`](https://github.com/stdlib-js/stdlib/commit/e61b1dee3334bacf30d213de5b5f1c7868c0753b) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
 -   [`f505ed5`](https://github.com/stdlib-js/stdlib/commit/f505ed56b0c0cc20458f9e51760d45d5abd60b36) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
 -   [`b9a2014`](https://github.com/stdlib-js/stdlib/commit/b9a2014b1181d30f86aa489ba90ad1f892ade8e8) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
@@ -119,16 +122,18 @@ A total of 13 issues were closed in this release:
 
 ### Contributors
 
-A total of 9 people contributed to this release. Thank you to the following contributors:
+A total of 11 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
+-   Ekampreet Singh Bains
 -   Karan Anand
 -   Lokesh Ranjan
 -   Philipp Burckhardt
 -   Saurabh Singh
+-   Shivam Mittal
+-   Shreelaxmi Hegde
 -   Vinit Pandit
--   ekambains
 -   pranav-1720
 
 </section>
