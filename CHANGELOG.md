@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2026-01-12)
+## 0.3.0 (2026-01-30)
 
 <section class="features">
 
@@ -55,6 +55,10 @@ A total of 14 issues were closed in this release:
 
 <details>
 
+-   [`8aaad97`](https://github.com/stdlib-js/stdlib/commit/8aaad97b1c15eb494a1607a00492cfdeee2acb98) - **bench:** update random value generation for `stats/base/dists/arcsine` [(#9973)](https://github.com/stdlib-js/stdlib/pull/9973) _(by Lokesh Ranjan)_
+-   [`111fc36`](https://github.com/stdlib-js/stdlib/commit/111fc36035d3cc5eca9cd60a26c82f030636d583) - **bench:** update random value generation for `stats/base/dists/arcsine` [(#9953)](https://github.com/stdlib-js/stdlib/pull/9953) _(by Lokesh Ranjan)_
+-   [`12a9091`](https://github.com/stdlib-js/stdlib/commit/12a9091c51692376b7c516aa250906ffcc26d6c4) - **bench:** update random value generation for `stats/base/dists/arcsine` [(#9924)](https://github.com/stdlib-js/stdlib/pull/9924) _(by Lokesh Ranjan, Athan Reines)_
+-   [`2a9e3c5`](https://github.com/stdlib-js/stdlib/commit/2a9e3c51b801951fed1dd75b0cdd3180b91c5ca6) - **bench:** refactor `stats/base/dists/arcsine/cdf` benchmarks [(#9881)](https://github.com/stdlib-js/stdlib/pull/9881) _(by Om-A-osc, Athan Reines)_
 -   [`35ce703`](https://github.com/stdlib-js/stdlib/commit/35ce70320886dd8f426225b2bd300114e7ea4c7d) - **docs:** remove duplicate words in documentation [(#9555)](https://github.com/stdlib-js/stdlib/pull/9555) _(by Shivam Mittal)_
 -   [`c7b5670`](https://github.com/stdlib-js/stdlib/commit/c7b567035c988493c48a6f305b535d6510e72501) - **chore:** fix EditorConfig lint errors [(#9528)](https://github.com/stdlib-js/stdlib/pull/9528) _(by Shreelaxmi Hegde)_
 -   [`d61ac9c`](https://github.com/stdlib-js/stdlib/commit/d61ac9c7ba00677bfde2c2fbc039db20ef9b2ce2) - **docs:** fix README sections _(by Athan Reines)_
@@ -122,13 +126,14 @@ A total of 14 issues were closed in this release:
 
 ### Contributors
 
-A total of 11 people contributed to this release. Thank you to the following contributors:
+A total of 12 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
 -   Ekampreet Singh Bains
 -   Karan Anand
 -   Lokesh Ranjan
+-   Om-A-osc
 -   Philipp Burckhardt
 -   Saurabh Singh
 -   Shivam Mittal
