@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="v0.3.1">
+
+## 0.3.1 (2026-02-08)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`b1ac7f1`](https://github.com/stdlib-js/stdlib/commit/b1ac7f156f4a3e4fba31d27f4797843676515519) - **bench:** refactor to use string interpolation in `stats/base/dists/arcsine/ctor` [(#10054)](https://github.com/stdlib-js/stdlib/pull/10054) _(by Lokesh Ranjan)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Lokesh Ranjan
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.0">
 
 ## 0.3.0 (2026-01-30)
