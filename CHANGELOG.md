@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-01)
+## Unreleased (2026-09-20)
+
+<section class="features">
+
+### Features
+
+-   [`94b9253`](https://github.com/stdlib-js/stdlib/commit/94b9253abd5a0fedf57b30619df3bcb6236aa80b) - add C implementation for `stats/base/dists/arcsine/logcdf` [(#10739)](https://github.com/stdlib-js/stdlib/pull/10739)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3386](https://github.com/stdlib-js/stdlib/issues/3386)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,19 @@
 
 <details>
 
+-   [`7d2cca4`](https://github.com/stdlib-js/stdlib/commit/7d2cca43f33dd41f2e520231e4a345eb691f6361) - **test:** migrate `stats/base/dists/arcsine/quantile` to ULP-based assertions [(#15082)](https://github.com/stdlib-js/stdlib/pull/15082) _(by Aryan kumar)_
+-   [`9564d60`](https://github.com/stdlib-js/stdlib/commit/9564d6079f44eb1b38a45203f23acd4776751f18) - **test:** migrate `stats/base/dists/arcsine/stdev` to ULP-based assertions [(#15051)](https://github.com/stdlib-js/stdlib/pull/15051) _(by Aryan kumar)_
+-   [`9dcd9e6`](https://github.com/stdlib-js/stdlib/commit/9dcd9e6dc0df5cd091d731859d2e3c2ba1ad6474) - **test:** migrate `stats/base/dists/arcsine/pdf` to ULP-based assertions [(#15052)](https://github.com/stdlib-js/stdlib/pull/15052) _(by Aryan kumar)_
+-   [`e35c83c`](https://github.com/stdlib-js/stdlib/commit/e35c83caff9fabb29f9cc6c47fe039a8b5ac3d93) - **test:** migrate `stats/base/dists/arcsine/logpdf` to ULP-based assertions [(#15053)](https://github.com/stdlib-js/stdlib/pull/15053) _(by Aryan kumar)_
+-   [`74f00ef`](https://github.com/stdlib-js/stdlib/commit/74f00efcab260a0ec5acf88713bdf4499bdecf36) - **chore:** clean-up [(#14905)](https://github.com/stdlib-js/stdlib/pull/14905) _(by Philipp Burckhardt)_
+-   [`94b9253`](https://github.com/stdlib-js/stdlib/commit/94b9253abd5a0fedf57b30619df3bcb6236aa80b) - **feat:** add C implementation for `stats/base/dists/arcsine/logcdf` [(#10739)](https://github.com/stdlib-js/stdlib/pull/10739) _(by Mohamed Mohey)_
+-   [`b3d024d`](https://github.com/stdlib-js/stdlib/commit/b3d024d0728a86e486f55613b4eb16c683857f94) - **test:** migrate `stats/base/dists/arcsine/variance` to ULP-based assertions [(#14830)](https://github.com/stdlib-js/stdlib/pull/14830) _(by Philipp Burckhardt)_
+-   [`4393fd1`](https://github.com/stdlib-js/stdlib/commit/4393fd1a32d4bc0e0ad22b2c3e5e9b8a122f5940) - **test:** migrate `stats/base/dists/arcsine/entropy` to ULP-based assertions [(#14497)](https://github.com/stdlib-js/stdlib/pull/14497) _(by Philipp Burckhardt)_
+-   [`e19ded6`](https://github.com/stdlib-js/stdlib/commit/e19ded67472ab95aa8f2bc2d73a494c14fe77a6e) - **test:** migrate `stats/base/dists/arcsine/mean` to ULP-based assertions [(#14278)](https://github.com/stdlib-js/stdlib/pull/14278) _(by Athan Reines)_
+-   [`6f563d5`](https://github.com/stdlib-js/stdlib/commit/6f563d5f65c22965e60a82e70c73a5e687df4b00) - **style:** add missing spaces [(#14201)](https://github.com/stdlib-js/stdlib/pull/14201) _(by Philipp Burckhardt)_
+-   [`99b2dea`](https://github.com/stdlib-js/stdlib/commit/99b2dea681f348b20578ff3b0d6f2be4c4dc0c81) - **test:** migrate `stats/base/dists/arcsine/logcdf` to ULP-based assertions [(#14180)](https://github.com/stdlib-js/stdlib/pull/14180) _(by Athan Reines)_
+-   [`b149fa7`](https://github.com/stdlib-js/stdlib/commit/b149fa757b98c9bc6050f91c5415c3e0a607f83d) - **chore:** clean-up [(#14014)](https://github.com/stdlib-js/stdlib/pull/14014) _(by Philipp Burckhardt, Athan Reines)_
+-   [`7b64d86`](https://github.com/stdlib-js/stdlib/commit/7b64d86d19a7dde54b04f244eabc86f12fcfe4a5) - **test:** migrate `stats/base/dists/arcsine/cdf` to ULP-based testing [(#13986)](https://github.com/stdlib-js/stdlib/pull/13986) _(by Jannatul Mawa, Athan Reines)_
 -   [`ca49ceb`](https://github.com/stdlib-js/stdlib/commit/ca49ceb1e17979e0ecb77bc50dedd14b7515b46f) - **refactor:** rename internal variable [(#13167)](https://github.com/stdlib-js/stdlib/pull/13167) _(by Philipp Burckhardt)_
 -   [`dbe4c82`](https://github.com/stdlib-js/stdlib/commit/dbe4c820ea98330253b4054a5bc9b04b2293415b) - **docs:** propagate fixes to sibling packages [(#12677)](https://github.com/stdlib-js/stdlib/pull/12677) _(by Philipp Burckhardt, Athan Reines)_
 -   [`77195c3`](https://github.com/stdlib-js/stdlib/commit/77195c343d9d48e264a58f8ec213d0df53ca7317) - **docs:** update namespace table of contents [(#12835)](https://github.com/stdlib-js/stdlib/pull/12835) _(by stdlib-bot)_
@@ -37,10 +72,13 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 7 people contributed to this release. Thank you to the following contributors:
 
+-   Aryan kumar
 -   Athan Reines
+-   Jannatul Mawa
 -   Karan Anand
+-   Mohamed Mohey
 -   Philipp Burckhardt
 -   anee3
 
