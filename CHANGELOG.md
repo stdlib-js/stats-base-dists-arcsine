@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-20)
+## Unreleased (2026-11-07)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`7349dff`](https://github.com/stdlib-js/stdlib/commit/7349dffeddd90289879f06e70acc1be8544af75b) - **style:** add missing whitespace [(#16507)](https://github.com/stdlib-js/stdlib/pull/16507) _(by Philipp Burckhardt)_
 -   [`7d2cca4`](https://github.com/stdlib-js/stdlib/commit/7d2cca43f33dd41f2e520231e4a345eb691f6361) - **test:** migrate `stats/base/dists/arcsine/quantile` to ULP-based assertions [(#15082)](https://github.com/stdlib-js/stdlib/pull/15082) _(by Aryan kumar)_
 -   [`9564d60`](https://github.com/stdlib-js/stdlib/commit/9564d6079f44eb1b38a45203f23acd4776751f18) - **test:** migrate `stats/base/dists/arcsine/stdev` to ULP-based assertions [(#15051)](https://github.com/stdlib-js/stdlib/pull/15051) _(by Aryan kumar)_
 -   [`9dcd9e6`](https://github.com/stdlib-js/stdlib/commit/9dcd9e6dc0df5cd091d731859d2e3c2ba1ad6474) - **test:** migrate `stats/base/dists/arcsine/pdf` to ULP-based assertions [(#15052)](https://github.com/stdlib-js/stdlib/pull/15052) _(by Aryan kumar)_
